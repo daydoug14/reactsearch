@@ -10,7 +10,7 @@ const SearchForm = props => (
         type="text"
         className="form-control"
         id="userSearchTopic"
-        placeholder="&quot;Florida Man&quot;"
+        placeholder="&quot;Georgia Monster&quot;"
         required
       />
     </div>
